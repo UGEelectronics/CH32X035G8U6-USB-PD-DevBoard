@@ -12,6 +12,8 @@ Available as a **fully assembled board** or as an **empty PCB** for DIY solderin
 
 - Fully assembled board: [Buy here](https://uge-one.com/product/ch32x035g8u6-usb-pd-32-bit-risc-v-microcontroller-development-board/)
 - Bare PCB for DIY soldering: [Buy here](https://uge-one.com/product/pcb-for-ch32x035g8u6-usb-pd-development-board/)
+- CH32X035G8U6 chip (QFN-28): [Buy here](https://uge-one.com/product/ch32x035g8u6-usb-microcontroller-with-pd-protocol-qfn28/)
+- WCH-LinkE debugger: [Buy here](https://uge-one.com/product/wch-linke-debugger/)
 
 ## Key features
 
