@@ -225,4 +225,4 @@ USB cable and debugger are not included unless stated on the product page.
 
 Repository: [UGEelectronics/CH32X035G8U6-USB-PD-DevBoard](https://github.com/UGEelectronics/CH32X035G8U6-USB-PD-DevBoard)
 
-UG Electronics · [uge-one.com](https://uge-one.com)
+UGE Electronics · [uge-one.com](https://uge-one.com)
